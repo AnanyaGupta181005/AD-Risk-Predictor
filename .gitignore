@@ -1,0 +1,7 @@
+data/
+__pycache__/
+*.pth.tar
+*.joblib
+.vscode/
+*.zip
+*.rar

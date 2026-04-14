@@ -1,0 +1,3 @@
+Alzheimer's Prediction Paper Results
+Base AUC (Multimodal): 0.6385
+Vessel Features Extracted: Fractal Dimension, Tortuosity, AV-Ratio

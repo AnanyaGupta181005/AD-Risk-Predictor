@@ -1,0 +1,15 @@
+torch>=2.0.0
+torchvision
+xgboost
+scikit-learn
+scikit-image
+opencv-python
+pandas
+numpy
+matplotlib
+shap
+optuna
+joblib
+pillow
+imbalanced-learn
+kaggle
